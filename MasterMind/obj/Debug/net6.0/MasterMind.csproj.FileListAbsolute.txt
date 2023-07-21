@@ -1,0 +1,15 @@
+D:\WEBapi\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.exe
+D:\WEBapi\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.deps.json
+D:\WEBapi\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.runtimeconfig.json
+D:\WEBapi\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.dll
+D:\WEBapi\MasterMind\MasterMind\bin\Debug\net6.0\MasterMind.pdb
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.csproj.AssemblyReference.cache
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.AssemblyInfoInputs.cache
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.AssemblyInfo.cs
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.csproj.CoreCompileInputs.cache
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.dll
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\refint\MasterMind.dll
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.pdb
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\MasterMind.genruntimeconfig.cache
+D:\WEBapi\MasterMind\MasterMind\obj\Debug\net6.0\ref\MasterMind.dll
